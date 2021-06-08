@@ -2387,7 +2387,13 @@ h2.resp-accordion:first-child {
   color: #00ACEE;
 }
 .social-icons li:hover.social-icons-facebook a, .social-icons.social-icons-colored li.social-icons-facebook a {
-  color: #3B5998;
+  color: #3F51B5;
+}
+.social-icons li:hover.social-icons-apple a, .social-icons.social-icons-colored li.social-icons-facebook a {
+  color: #607D8B;
+}
+.social-icons li:hover.social-icons-android a, .social-icons.social-icons-colored li.social-icons-facebook a {
+  color: #4CAF50;
 }
 .social-icons li:hover.social-icons-linkedin a, .social-icons.social-icons-colored li.social-icons-linkedin a {
   color: #0E76A8;
